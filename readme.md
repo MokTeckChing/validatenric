@@ -12,7 +12,7 @@ As explained very well by <a href="https://ivantay2003.medium.com/creation-of-si
 I am aware that several sites (including Ivan's) already function as an NRIC number validator, however i cannot a find a package that does the same thing for python.
 
 With that in mind, the purpose of this project is twofold:
-1) Practice publishing a small package to the <a href="https://pypi.org/">Python Package Index (PyPI)</a>.
+1) Practice publishing a small package to the <a href="https://pypi.org/">Python Package Index (PyPI)</a>. Note: completed! you can now "pip install validatenric"
 2) Practice publishing an app of sorts to google cloud <WIP>
   
 Do note that this project is in no way supported by the Singapore government or any legal body in Singapore.
